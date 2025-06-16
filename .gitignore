@@ -1,0 +1,87 @@
+# Xcode
+.DS_Store
+build/
+DerivedData/
+xcuserdata/
+
+# SwiftPM
+.swiftpm/
+.build/
+
+# User-specific Xcode files
+*.xcuserstate
+*.xcscmblueprint
+*.xccheckout
+
+# iOS device support
+DeviceSupport/
+
+# Playgrounds
+timeline.xctimeline
+playground.xcworkspace/
+
+# CocoaPods
+Pods/
+Podfile.lock
+
+# Carthage
+Carthage/Build/
+
+# Fastlane
+fastlane/report.xml
+fastlane/Preview.html
+fastlane/screenshots/**/*.png
+fastlane/test_output/
+
+# Archives
+*.xcarchive
+
+# Swift Package Manager
+Package.resolved
+
+# Logs
+*.log
+
+# Binary and cache
+*.swp
+*.zip
+*.dmg
+*.ipa
+*.xcuserdatad
+
+# Firebase Crashlytics
+*.dSYM.zip
+*.dSYM
+
+# Temporary files
+*.tmp
+*.orig
+
+# Xcode Preview canvas cache
+CanvasPreview/
+
+# Environment
+.env
+.env.*
+
+# Project-local config files
+.xcodeproj/project.xcworkspace/xcuserdata
+*.xcodeproj/xcuserdata
+*.xcodeproj/project.xcworkspace/xcuserdata
+*.xcworkspace/xcuserdata
+
+# SPM checkouts
+.checkouts/
+
+# SwiftLint cache
+.swiftlint.yml
+.swiftlint.tmp
+
+# Tuist generated
+Tuist/Dependencies/
+
+# Xcode Cloud
+.xcresult
+
+# Other IDEs
+.idea/
